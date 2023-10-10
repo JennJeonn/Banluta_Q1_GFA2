@@ -1,0 +1,10 @@
+*{margin: 0px; padding: 0px;}
+.navbar{
+    background-color: pink;
+    overflow: hidden;
+}
+.navbar img{
+  width: 35px;
+  height: 35px;
+  float: left;
+}
